@@ -1,0 +1,14 @@
+= Book library
+
+== Что делать
+
+. Реализовать интерфейс link:src/main/java/ru/hse/booklibrary/BookLibrary.java[`BookLibrary`]
+. Протестировать каждый реализованный метод, примеры тестов -- link:src/test/java/ru/hse/booklibrary/BookLibraryTest.java[`BookLibraryTest`]
+
+== Что использовать и читать
+
+. Коллекции:
+.. `List`, `Set`, `Map`
+.. Обратить внимание на методы `Collections.unmodifiableXXX`
+. `Optional`, читаем https://struchkov.dev/blog/optional-in-java/
+
